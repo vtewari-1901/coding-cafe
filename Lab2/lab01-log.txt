@@ -1,0 +1,113 @@
+    1  sudo
+    2  pwd
+    3  ls
+    4  ls -a
+    5  cd
+    6  cls
+    7  pwd
+    8  ls
+    9  ls -a
+   10  clear
+   11  ls
+   12  cd Desktop/
+   13  cd Desktop
+   14  cd
+   15  cd /mnt/c/Users
+   16  ls
+   17  cd vtewa
+   18  cd Desktop
+   19  cd Desktop/
+   20  ls
+   21  cd Documents
+   22  ls
+   23  ls -a
+   24  clear
+   25  cd vtewa
+   26  /mnt/c/Users
+   27  clear
+   28  rd
+   29  midir
+   30  mkdir
+   31  mkdir vtewa
+   32  clear
+   33  pwd
+   34  mkdir
+   35  mkdir coding-cafe
+   36  cd coding-cafe
+   37  cd Desktop
+   38  cd
+   39  cd Desktop
+   40  cd C:\Users\vtewa\Desktop
+   41  cd /mnt/c/Users/vtewa/Desktop
+   42  mkdir coding-cafe
+   43  cd coding-cafe
+   44  mkdir week01
+   45  mkdir week02
+   46  ls
+   47  cd week02
+   48  cd ../week01
+   49  cd ../week02
+   50  touch notes.md
+   51  ls
+   52  code notes.md
+   53  cd ..
+   54  code coding-cafe
+   55  cd ..
+   56  code coding-cafe/
+   57  cd coding-cafe/
+   58  touch README.md
+   59  ls
+   60  ls -l
+   61  cd Desktop/
+   62  mkdir coding-cafe
+   63  cd coding-cafe/
+   64  mkdir week01
+   65  mkdir week02
+   66  touch week02/notes.md
+   67  cd week02
+   68  code notes.md
+   69  ls -l
+   70  cd ..
+   71  touch README.md
+   72  ls -r
+   73  cd ~
+   74  ls coding-cafe/week02
+   75  cd /mnt/c/Users/vtewa/Desktop
+   76  ls coding-cafe/week02
+   77  cd coding-cafed
+   78  cd coding-cafe/
+   79  cp README.md README-backup.md
+   80  mv README-backup.md week01/
+   81  cd week01
+   82  mv README-backup.md old-readme.md
+   83  ls
+   84  rm old-readme.md
+   85  echo $PATH
+   86  which python3
+   87  which pip
+   88  which ls
+   89  pyton3
+   90  cd ..
+   91  python -m venv .venv
+   92  python3 -m venv .venv
+   93  apt install python3.14-venv
+   94  sudo apt install python3.14-venv
+   95  sudo apt install python3-venv
+   96  python -m venv .venv
+   97  python3 -m venv .venv
+   98  ls -a
+   99  ls
+  100  source .venv/bin/activate
+  101  pip list
+  102  pip install requests
+  103  pip list
+  104  deactivate
+  105  which python
+  106  which python3
+  107  man ls
+  108  man man
+  109  cd cod
+  110  history
+  111  python3
+  112  cd cod
+  113  history> week02/lab01-log.txt
